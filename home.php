@@ -11,6 +11,7 @@ if (isset($_GET['logout'])) {
     header("location: login.php");
 }
 ?>
+<!-- Hello -->
 <!DOCTYPE html>
 <html lang="en">
 <head>
