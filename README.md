@@ -1,6 +1,6 @@
 # covid-website
 
-Made during web hack contest [#vista2k21]()
+Made during web hack contest [#vista2k21]() with <b> THE-HACK-PIRATES <b>
 
 ![Login Page](https://github.com/Yaswanth820/covid-website/blob/main/SC/login-page.PNG)
 
